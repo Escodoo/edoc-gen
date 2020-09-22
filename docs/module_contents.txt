@@ -1,10 +1,66 @@
 Module contents
 =================
-.. automodule:: leiauteInutNFe
+.. automodule:: Servico_Cancelar_justificativa_tipo_complexos
     :members:
     :undoc-members:
     :show-inheritance:
-.. automodule:: leiauteNFe
+.. automodule:: Servico_Cancelar_justificativa
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: servico_cancelar_nfse_envio
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: servico_cancelar_nfse_resposta
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: servico_consultar_dados_cadastrais_envio
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: servico_consultar_dados_cadastrais_resposta
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: servico_consultar_lote_rps_envio
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: servico_consultar_lote_rps_resposta
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: servico_consultar_nfse_envio
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: servico_consultar_nfse_resposta
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: servico_consultar_nfse_rps_envio
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: servico_consultar_nfse_rps_resposta
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: servico_consultar_situacao_lote_rps_envio
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: servico_consultar_situacao_lote_rps_resposta
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: servico_enviar_lote_rps_envio
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: servico_enviar_lote_rps_resposta
     :members:
     :undoc-members:
     :show-inheritance:

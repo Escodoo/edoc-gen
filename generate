@@ -65,12 +65,12 @@ prepare_schemas() {
   if [ -e /tmp/schemas/Schemas.zip ];
   then
     unzip -o /tmp/schemas/Schemas.zip -d schemas/$SCHEMA_NAME
-#    rm -f /tmp/schemas
-#    rm -f /tmp/schemas/Schemas.zip
+    rm -f /tmp/schemas
+    rm -f /tmp/schemas/Schemas.zip
   else
     unzip -o /tmp/schemas.zip -d schemas/$SCHEMA_NAME
   fi
-#  rm -f /tmp/schemas.zip
+  rm -f /tmp/schemas.zip
   unzip_path=$(ls schemas/$SCHEMA_NAME | head -n1)
   if [ -d schemas/"$SCHEMA_NAME/$unzip_path" ]; then  # unwrap nesting
     mv schemas/"$SCHEMA_NAME/$unzip_path" "schemas/$SCHEMA_NAME/$version"
