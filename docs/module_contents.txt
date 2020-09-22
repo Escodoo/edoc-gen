@@ -1,0 +1,10 @@
+Module contents
+=================
+.. automodule:: leiauteInutNFe
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: leiauteNFe
+    :members:
+    :undoc-members:
+    :show-inheritance:
